@@ -69,7 +69,7 @@ The Titanic dataset contains the following columns:
 4. Data Preprocessing and Feature Engineering
     - 4.1 Identify the variables
     - 4.2 Dealing with Missing values
-    	  - 4.2.1 Dealing with Missing values in Columns
+    	- 4.2.1 Dealing with Missing values in Columns
        	- 4.2.2 Dealing with Missing values in Rows
     - 4.3 Dealing with the Non-numerical features
 5. Train and Test the Logistic Regression model
@@ -79,17 +79,17 @@ The Titanic dataset contains the following columns:
     - 5.4 Train / fit the Logistic Regression model
     - 5.5 Predictions from the model on Testing data
     - 5.6 Evaluate the model on Testing data
-	      - 5.6.1 Classification report
-	      - 5.6.2 Confusion matrix
-	      - 5.6.3 Interpreting of Coefficient of the features
+    	 - 5.6.1 Classification report
+    	 - 5.6.2 Confusion matrix
+    	 - 5.6.3 Interpreting of Coefficient of the features
     - 5.7 GridSearchCV
-	      - 5.7.1 Create the Grid of parameters
-      	- 5.7.2 Create the GridSearchCV model (Re-create the Logistic Regression model)
-      	- 5.7.3 Train / fit the GridSearchCV model (Re-train / Re-fit the Logistic Regression model)
-      	- 5.7.4 Predictions from the GridSearchCV model (Re-predictions from the Logistic Regression model) on Testing data
-	      - 5.7.5 Evaluate the GridSearchCV model (Re-evaluate the Logistic Regression model) on Testing data
-	       	- 1. Classification report
-        	- 2. Confusion matrix
+         - 5.7.1 Create the Grid of parameters
+         - 5.7.2 Create the GridSearchCV model (Re-create the Logistic Regression model)
+         - 5.7.3 Train / fit the GridSearchCV model (Re-train / Re-fit the Logistic Regression model)
+         - 5.7.4 Predictions from the GridSearchCV model (Re-predictions from the Logistic Regression model) on Testing data
+         - 5.7.5 Evaluate the GridSearchCV model (Re-evaluate the Logistic Regression model) on Testing data
+         	- 1. Classification report
+         	- 2. Confusion matrix
 
 #### 4. Executive Summary
 TBA
