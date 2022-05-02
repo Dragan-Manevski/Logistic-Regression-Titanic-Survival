@@ -1,6 +1,6 @@
-### --------------------------------------------------------------------------------------------------------
+### -------------------------------------------------------------------------------------------------------
 # Logistic Regression - Titanic Survival
-### --------------------------------------------------------------------------------------------------------
+### -------------------------------------------------------------------------------------------------------
 ### Logistic Regression:
 - an **algorithm**:
     - based on **Supervised Learning**
@@ -21,7 +21,7 @@
 - Loan default
 - Disease diagnosis
 
-### --------------------------------------------------------------------------------------------------------
+### -------------------------------------------------------------------------------------------------------
 ### Project Objective: Predicting survived or deceased passengers on Titanic
 Create a model that allows to put in a few features about passangers and returns back a prediction (classification) of survived or deceased passengers on Titanic. Information about the passangers is in the dataset 'Titanic_train.csv'. The Titanic dataset is from Kaggle (https://www.kaggle.com/c/titanic) and "semi-cleaned" version of the dataset will be used.
 
@@ -39,7 +39,7 @@ The Titanic dataset contains the following columns:
 - **Cabin** - Cabin number of the passenger ("NaN" values indicates that the cabin number of that particular passenger has not been recorded)
 - **Embarked** - Port from where the particular passenger was embarked/boarded (C = Cherbourg, Q = Queenstown, S = Southampton)
 
-### --------------------------------------------------------------------------------------------------------
+### -------------------------------------------------------------------------------------------------------
 ### Table of Contents:
 1. File Descriptions
 2. Technologies Used
