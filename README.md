@@ -23,7 +23,7 @@
 
 ### -------------------------------------------------------------------------------------------------------
 ### Project Objective: Predicting survived or deceased passengers on Titanic
-Create a model that allows to put in a few features about passangers and returns back a prediction (classification) of survived or deceased passengers on Titanic. Information about the passangers is in the dataset 'Titanic_train.csv'. The Titanic dataset is from Kaggle (https://www.kaggle.com/c/titanic) and "semi-cleaned" version of the dataset will be used.
+Create a model that allows to put in a few features about passengers and returns back a prediction (classification) of survived or deceased passengers on Titanic. Information about the passengers is in the dataset 'Titanic_train.csv'. The Titanic dataset is from Kaggle (https://www.kaggle.com/c/titanic) and "semi-cleaned" version of the dataset will be used.
 
 The Titanic dataset contains the following columns:
 - **PassengerId** - An unique index for each passenger (it starts from 1 and increments by 1 for every new passenger)
